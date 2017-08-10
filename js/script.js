@@ -3,7 +3,7 @@ $(function(){
 
     // YOU MUST EDIT THIS SECTION
     // You must supply a Trove API key
-    var troveAPIKey = '';
+    var troveAPIKey = '6pi5hht0d2umqcro';
     // Either provide full API query here or include options below
     var apiQuery = '';
     // Words you want to search for -- separate multiple values with spaces, eg:
@@ -16,7 +16,7 @@ $(function(){
     // attended my talk to ACT teacher librarians asked if it was possible to
     // have a version that always gave a particular year as an answer. I think it
     // was for a treasure hunt type thing.
-    var year = '';
+    var year = '1950';
     // Newspaper id numbers -- separate multiple values with spaces, eg:
     // var titles = '840 35';
     var titles = '';
